@@ -15,7 +15,7 @@ class App extends React.Component {
         {
           id: 1,
           title: 'iPhone 14 512 ГБ',
-          img : '14iPhone.png',
+          img : '14promaxis.png',
           desc: 'В наличии',
           category: 'iphone',
           price: '999$'
