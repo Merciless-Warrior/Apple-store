@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
+import image from "../assets/images/14iPhone.png";
 
 class Item extends Component {
   constructor(props) {
@@ -15,15 +16,19 @@ class Item extends Component {
 
   render() {
     return (
-      <div className='item'>
-        <img src={'./img/' + this.props.item.img} alt='фото' onClick={() => this.props.onShowItem(this.props.item)} />
+      <div className="item">
+        <img
+          src={require(`../assets/images/${this.props.item.img}`)}
+          alt="фото"
+          onClick={() => this.props.onShowItem(this.props.item)}
+        />
         <h2>{this.props.item.title}</h2>
         <p>{this.props.item.desc}</p>
         <b>{this.props.item.price}</b>
-        <div className='add-to-cart' onClick={this.handleAddToCart}>
+        <div className="add-to-cart" onClick={this.handleAddToCart}>
           +
         </div>
-        <div className='item-quantity'>{this.state.quantity}</div>
+        <div className="item-quantity">{this.state.quantity}</div>
       </div>
     );
   }

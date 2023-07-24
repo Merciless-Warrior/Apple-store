@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Items from './components/Items';
+
 import Categories from './components/Categories';
 
 
@@ -296,7 +297,11 @@ class App extends React.Component {
     this.deleteOrder = this.deleteOrder.bind(this);
     this.chooseCategory = this.chooseCategory.bind(this);
   }
-
+  onShowItem = (item) => {
+    // Ваш код для обработки события onShowItem
+    console.log(item);
+    // Пример: можно открыть модальное окно с деталями элемента или выполнить другие действия
+  }
   render() {
     return (
       <div className="wrapper">

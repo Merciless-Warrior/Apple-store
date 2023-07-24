@@ -6,7 +6,7 @@ export class Order extends Component {
   render() {
     return (
       <div className='item'>
-        <img src={"./img/" + this.props.item.img} alt='logo' />
+        <img src={require(`../assets/images/${this.props.item.img}`)} alt='logo' />
         <h2 className='title'>{this.props.item.title}</h2>
         <h2 className='desc'>{this.props.item.desc}</h2>
         <b className='price'>{this.props.item.price}</b>
