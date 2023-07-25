@@ -598,7 +598,7 @@ main .add-to-cart{
 
 
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:430px) {
   .header-info{
     display: inline-block;
     position: relative;
