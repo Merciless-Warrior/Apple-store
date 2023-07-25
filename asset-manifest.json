@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/Apple-store/static/css/main.e6320736.css",
-    "main.js": "/Apple-store/static/js/main.8688b3cb.js",
+    "main.css": "/Apple-store/static/css/main.cd6e38b5.css",
+    "main.js": "/Apple-store/static/js/main.ef4e26c9.js",
     "static/js/787.17659e10.chunk.js": "/Apple-store/static/js/787.17659e10.chunk.js",
     "static/media/chris-nagahama-vVhhfvVTerY-unsplash.jpg": "/Apple-store/static/media/chris-nagahama-vVhhfvVTerY-unsplash.66d4b67e0a60a53ab1fd.jpg",
+    "static/media/watch7jpg.jpg": "/Apple-store/static/media/watch7jpg.b8b7f0a7df5748528fa2.jpg",
+    "static/media/14iPhone.png": "/Apple-store/static/media/14iPhone.7e2ee1ff11e0efa03622.png",
+    "static/media/iphone11 (2).png": "/Apple-store/static/media/iphone11 (2).9da9a5d9f58e9c7c9714.png",
+    "static/media/14promaxis.png": "/Apple-store/static/media/14promaxis.a7a5b05a81b006eeadec.png",
+    "static/media/iphone11.png": "/Apple-store/static/media/iphone11.e3373e8e1512a7f79d86.png",
+    "static/media/macbook4.jpg": "/Apple-store/static/media/macbook4.e9126d7d9bc149b81b7e.jpg",
+    "static/media/macbook5.jpg": "/Apple-store/static/media/macbook5.9a1a542997dcc194a285.jpg",
+    "static/media/watch7.jpg": "/Apple-store/static/media/watch7.5241031e3242c316c8a6.jpg",
+    "static/media/macbook6.jpg": "/Apple-store/static/media/macbook6.4eec3e4b80a07bd191e8.jpg",
+    "static/media/watch3.jpg": "/Apple-store/static/media/watch3.1404722fbe5d9728964a.jpg",
     "index.html": "/Apple-store/index.html",
-    "main.e6320736.css.map": "/Apple-store/static/css/main.e6320736.css.map",
-    "main.8688b3cb.js.map": "/Apple-store/static/js/main.8688b3cb.js.map",
+    "main.cd6e38b5.css.map": "/Apple-store/static/css/main.cd6e38b5.css.map",
+    "main.ef4e26c9.js.map": "/Apple-store/static/js/main.ef4e26c9.js.map",
     "787.17659e10.chunk.js.map": "/Apple-store/static/js/787.17659e10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6320736.css",
-    "static/js/main.8688b3cb.js"
+    "static/css/main.cd6e38b5.css",
+    "static/js/main.ef4e26c9.js"
   ]
 }
