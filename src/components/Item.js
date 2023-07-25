@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import image from "../assets/images/14iPhone.png";
+
 
 class Item extends Component {
   constructor(props) {
